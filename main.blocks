@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="m]e1t]VWP`.%Iqx^:ycK">doe 2 seconden</variable></variables><block type="device_gesture_event" id="chq?%GxNtr0VEblvy#|Q" x="252" y="231"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_show_number" id="w2H{UKPJJbe}S:0Zp}5p"><value name="number"><shadow type="math_number" id="w6kK6iHV4=LX_ORsV)e7"><field name="NUM">0</field></shadow><block type="device_random" id="RFHk9fSVQo#^efYO]aZn"><value name="min"><shadow type="math_number" id="}1uGJ,t_3vJz0(z,.$S9"><field name="NUM">0</field></shadow></value><value name="limit"><shadow type="math_number" id="?m_a[B8M#V#}Y8Q$Xz]d"><field name="NUM">7</field></shadow></value></block></value><next><block type="device_pause" id="crf|EPdDG$^Nm3ld,,{?"><value name="pause"><shadow type="timePicker" id="=]YvSvq0XnuqugPv|`2-"><field name="ms">2000</field></shadow></value><next><block type="device_show_leds" id="gP)l/R?6R|$gUF%;xmdI"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></next></block></next></block></statement></block></xml>
